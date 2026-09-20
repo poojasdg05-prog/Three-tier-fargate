@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  AWS_REGION: ap-south-1
+  AWS_REGION: us-east-1
   ECS_CLUSTER: three-tier-cluster
   ECS_SERVICE: three-tier-service
   FRONTEND_REPOSITORY: three-tier-frontend
